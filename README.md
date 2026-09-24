@@ -460,6 +460,5 @@ After running the analysis, you'll find:
 **Issue**: Import errors  
 **Solution**: Verify all dependencies are installed: `pip list | grep -E "pandas|numpy|plotly|scikit"` (or `findstr` on Windows)
 
----
 
 
