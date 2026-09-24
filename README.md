@@ -462,33 +462,4 @@ After running the analysis, you'll find:
 
 ---
 
-## 👥 Team & Acknowledgments
 
-### Team Members
-
-- **Glen Elric Fernandes** - Data Science & Machine Learning
-- **Reoney Iral Madtha** - Data Engineering & Visualization
-
-### Hackathon Details
-
-| Detail | Value |
-|--------|-------|
-| **Event** | UIDAI Data Hackathon 2026 |
-| **Dataset Provider** | Unique Identification Authority of India (UIDAI) |
-| **Analysis Period** | March - December 2025 (10 months) |
-| **Submission Date** | January 2026 |
-| **Data Volume** | 260+ million transactions |
-
-### Acknowledgments
-
-We thank UIDAI for providing this invaluable dataset and organizing the hackathon to drive data-driven insights for India's digital identity infrastructure. This analysis aims to contribute meaningful recommendations for improving Aadhaar service delivery nationwide.
-
----
-
-## 📄 License
-
-This analysis is submitted as part of the UIDAI Data Hackathon 2026. All datasets remain property of UIDAI. Analysis code and insights are provided for evaluation purposes.
-
----
-
-**For questions or further details, please refer to the comprehensive analysis in `insights.ipynb`.**
