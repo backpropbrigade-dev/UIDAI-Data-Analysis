@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data Files (Large datasets - don't push to GitHub)
+Datasets/
+*.csv
+*.xlsx
+*.xls
+
+# Output Files (Generated results)
+output/cleaned/
+output/imputed/
+output/master/*.csv
+
+# Keep output/insights visualizations and summaries
+!output/insights/*.html
+!output/insights/*.csv
+!output/insights/*.md
+
+# Backup Files
+*_backup.*
+*.bak
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.blg
+*.bbl
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary Files
+*.tmp
+*.temp
+~$*
